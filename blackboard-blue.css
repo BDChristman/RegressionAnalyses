@@ -13,7 +13,7 @@ white  - #FFFFFF
 
 /*Background image*/
 .remark-slide-content{
-  background-image: url("figures/blackboard.png");
+  background-image: url("blackboard.png");
   background-size: cover;
 }
 
@@ -28,7 +28,7 @@ h1{
  font-size: 55px;
  width:1107px;
  text-align: left;
- background-image: url(figures/underline-blue.png);
+ background-image: url(underline-blue.png);
  background-position: 0 1.4em;
  background-repeat: repeat-x;
  background-size: 1107px 12px;
@@ -40,7 +40,7 @@ h2{
 
 h3{
  font-family: 'Shadows Into Light';
- /* background-image: url("figures/chalk1-blue.png");
+ /* background-image: url("chalk1-blue.png");
  background-repeat: no-repeat; Do not repeat the image 
  background-position: center;
  background-size: 100% 50%;*/
@@ -62,7 +62,7 @@ li{
  font-family: Pangolin;
  font-size: 24px;
  padding-left: 30px;
- background: url('figures/dot-blue.png') no-repeat left top;
+ background: url('dot-blue.png') no-repeat left top;
 }
 
 pre, code {
